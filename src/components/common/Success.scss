@@ -1,0 +1,9 @@
+.submit-wrap{
+	position: relative;min-height:300px;padding-top:48px;
+	.submit-ico{display:block;width:100px;height:100px;margin:0 auto;border-radius:9999px;
+		background:url(../../../static/img/success-ico.png) no-repeat;background-size:100px auto;}
+	.submit-succ{color:#333;font-size:20px;line-height:30px;text-align:center;margin-top:20px;}
+	.submit-tip{color:#555;font-size:14px;line-height:20px;text-align:center;margin-top:12px;}
+	.submit-link{position:absolute;bottom:30px;left:0;width:100%; display:block; 
+		color:#576B95;font-size:13px;line-height:20px;text-align:center;text-decoration:none;}
+}
